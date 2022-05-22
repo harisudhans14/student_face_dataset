@@ -1,5 +1,5 @@
 train: ../train/images
-val: ../valid/images
+valid: ../valid/images
 
 nc: 8
 names: ['akshay', 'aravindh', 'arun', 'ashok', 'ashwanth', 'gomanishwaran', 'haris', 'harisudhan']
