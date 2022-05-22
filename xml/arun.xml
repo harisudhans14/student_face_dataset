@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>arun.jpg</filename>
+	<path>D:\Machine Learning\dataset\dataset\arun.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2873</width>
+		<height>2692</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>53</ymin>
+			<xmax>2185</xmax>
+			<ymax>2232</ymax>
+		</bndbox>
+	</object>
+</annotation>

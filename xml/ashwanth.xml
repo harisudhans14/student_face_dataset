@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>ashwanth.jpeg</filename>
+	<path>D:\Machine Learning\dataset\dataset\ashwanth.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>853</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ashwanth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>84</ymin>
+			<xmax>528</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+</annotation>

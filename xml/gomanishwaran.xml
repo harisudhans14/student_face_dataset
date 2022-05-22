@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>gomanishwaran.jpeg</filename>
+	<path>D:\Machine Learning\dataset\dataset\gomanishwaran.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>646</width>
+		<height>886</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gomanishwaran</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>34</ymin>
+			<xmax>486</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>
